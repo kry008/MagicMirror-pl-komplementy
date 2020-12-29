@@ -3,17 +3,21 @@
         "Witaj! Co robimy?"
     ],
     "morning" : [
-        "Dzień dobry, słonko wstaje!",
-        "Kto potrzebuje gorącej kawy i miłego słowa?",
+        "Dzień dobry, \nsłonko wstaje!",
+        "Kto potrzebuje gorącej kawy \ni miłego słowa?",
         "Zrób TO!"
     ],
     "afternoon" : [
-        "Już za niedługo koniec dnia!",
+        "Już za niedługo \nkoniec dnia!",
         "Będzie dobrze!"
     ],
     "evening" : [
-        "To był pracowity dzień...",
-        "Już tylko do łóżka i koniec.",
-        "Masz wpływ na to, co robisz."
+        "To był pracowity \ndzień...",
+        "Już tylko do łóżka \ni koniec.",
+        "Masz wpływ na to, \nco robisz."
+    ],
+    "day_cloudy" : [
+        "Nie patrz dziś \nw chmury!",
+        "Coś za szaro \njak na Ciebie!"
     ]
 }
