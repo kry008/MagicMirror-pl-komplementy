@@ -1,0 +1,19 @@
+{
+    "anytime" : [
+        "Witaj! Co robimy?"
+    ],
+    "morning" : [
+        "Dzień dobry, słonko wstaje!",
+        "Kto potrzebuje gorącej kawy i miłego słowa?",
+        "Zrób TO!"
+    ],
+    "afternoon" : [
+        "Już za niedługo koniec dnia!",
+        "Będzie dobrze!"
+    ],
+    "evening" : [
+        "To był pracowity dzień...",
+        "Już tylko do łóżka i koniec.",
+        "Masz wpływ na to, co robisz."
+    ]
+}
